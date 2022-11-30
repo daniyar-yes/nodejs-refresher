@@ -1,0 +1,2 @@
+20221129	22:57:20	9874e883-a2d0-4f3d-a505-362c08036181	Log event emitted!}20221129	22:58:19	68859462-28ff-4d74-bd78-f6c5eb783d7c	Log event emitted!}20221129	22:59:34	7b25152b-cfcf-4db9-abab-ddcf7ff1fedd	Log event emitted!
+20221129	23:00:05	93933834-1128-44ad-8247-e634ead9a5b6	Log event emitted!
