@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3500
 
 const serveFile = async (filePath, contentType, response) => {
     try {
-        const rawData = await fsPromises.readFile(
+        const rawData = await fsPromises.readFileserves(
             filePath, 
             !contentType.includes('image') ? 'utf8' : ''
             )
