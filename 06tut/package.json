@@ -1,5 +1,5 @@
 {
-  "name": "05tut",
+  "name": "06tut",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,10 +7,11 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "",
+  "author": "Daniyar",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.29.3",
+    "express": "^4.18.2",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
