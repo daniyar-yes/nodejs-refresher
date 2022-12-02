@@ -66,7 +66,7 @@ const three = (req, res) => {
 
 app.get('/chain(.html)?', [one, two, three])
 
-app.get('*', (req, res) => {
+app.all('*', (req, res) => {
     res.status(404)
     if (req.accepts('html')) {
         res.sendFile(path.join(__dirname, 'views', '404.html'))

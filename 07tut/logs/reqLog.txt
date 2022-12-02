@@ -41,3 +41,7 @@
 20221201	15:54:56	ec5befcc-f1da-46dc-b240-9c17e9f09133	GET	undefined	/css/style.css
 20221201	15:57:55	c857dec3-7c49-4933-ab01-f1eb5c34030a	GET	undefined	/danik
 20221201	15:57:55	d67587cb-2e57-4b69-8b33-6a8619a27711	GET	undefined	/css/style.css
+20221201	16:00:37	7465aab1-caa6-4439-9530-4374d982ee88	GET	undefined	/danik
+20221201	16:00:37	4e74f206-0988-4b46-8f25-8ba1fe72e87a	GET	undefined	/css/style.css
+20221201	16:00:48	4e14ba84-a078-47a9-86c9-76d27d1957e1	GET	undefined	/hero
+20221201	16:00:48	bd8db5c7-e819-40d4-a885-c91a1b9456d6	GET	undefined	/css/style.css
