@@ -1,3 +1,0 @@
-20221130	21:05:39	3758ff79-a6b1-4952-b385-939c6dd4bc71	TypeError: fsPromises.readFil is not a function
-20221201	15:52:37	04043d2e-e571-439a-83f4-7ba0e0623aed	Error: Not allowed by CORS
-20221201	18:20:25	1c3d4c9e-df2b-4d4b-a81e-1c19f96066ab	SyntaxError: Unexpected token ' in JSON at position 1
